@@ -534,6 +534,7 @@ body.open .site-content
     width: calc(50% - 50px);
     background-size: cover;
     background-position: center center;
+    background-image: url(demo-images/03.jpg);
 }
 
 .cat-links
@@ -1145,6 +1146,7 @@ body.open .site-content
         height: 300px;
         width: 100%;
         position: absolute;
+        background-image: url(images/timeline-horizontal.png);
     }
 
     #blog-wrapper
